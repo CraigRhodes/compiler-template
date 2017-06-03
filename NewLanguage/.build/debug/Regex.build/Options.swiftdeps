@@ -1,0 +1,269 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Options"
+- "_RegularExpressionOptions"
+provides-nominal:
+- "V5Regex7Options"
+provides-member:
+- ["V5Regex7Options", ""]
+- ["V5Regex7Options", "toNSRegularExpressionOptions"]
+provides-dynamic-lookup:
+depends-top-level:
+- "<<"
+- "=="
+- "AssignmentPrecedence"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "NSRegularExpression"
+- !private "OptionSet"
+- "Options"
+- "_OptionSet"
+- "_RegularExpressionOptions"
+depends-member:
+- ["Ps9AnyObject", "Options"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Ps7CVarArg", "Options"]
+- ["Ps28CustomDebugStringConvertible", "Options"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- ["Ps23CustomStringConvertible", "Options"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "AnchorsMatchLines"]
+- !private ["Ps9Equatable", "DotMatchesLineSeparators"]
+- !private ["Ps9Equatable", "IgnoreCase"]
+- !private ["Ps9Equatable", "IgnoreMetacharacters"]
+- ["Ps9Equatable", "Options"]
+- !private ["Ps9Equatable", "_RegularExpressionOptions"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "anchorsMatchLines"]
+- !private ["Ps9Equatable", "caseInsensitive"]
+- ["Ps9Equatable", "contains"]
+- !private ["Ps9Equatable", "dotMatchesLineSeparators"]
+- ["Ps9Equatable", "formIntersection"]
+- ["Ps9Equatable", "formSymmetricDifference"]
+- ["Ps9Equatable", "formUnion"]
+- !private ["Ps9Equatable", "ignoreMetacharacters"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "insert"]
+- ["Ps9Equatable", "intersection"]
+- ["Ps9Equatable", "isDisjoint"]
+- ["Ps9Equatable", "isEmpty"]
+- ["Ps9Equatable", "isSubset"]
+- ["Ps9Equatable", "isSuperset"]
+- ["Ps9Equatable", "rawValue"]
+- ["Ps9Equatable", "remove"]
+- ["Ps9Equatable", "subtract"]
+- ["Ps9Equatable", "subtracting"]
+- ["Ps9Equatable", "symmetricDifference"]
+- ["Ps9Equatable", "union"]
+- ["Ps9Equatable", "update"]
+- ["Ps9Equatable", ""]
+- !private ["Ps25ExpressibleByArrayLiteral", "AnchorsMatchLines"]
+- !private ["Ps25ExpressibleByArrayLiteral", "DotMatchesLineSeparators"]
+- !private ["Ps25ExpressibleByArrayLiteral", "IgnoreCase"]
+- !private ["Ps25ExpressibleByArrayLiteral", "IgnoreMetacharacters"]
+- ["Ps25ExpressibleByArrayLiteral", "Options"]
+- !private ["Ps25ExpressibleByArrayLiteral", "_RegularExpressionOptions"]
+- !private ["Ps25ExpressibleByArrayLiteral", "anchorsMatchLines"]
+- !private ["Ps25ExpressibleByArrayLiteral", "caseInsensitive"]
+- ["Ps25ExpressibleByArrayLiteral", "contains"]
+- !private ["Ps25ExpressibleByArrayLiteral", "dotMatchesLineSeparators"]
+- ["Ps25ExpressibleByArrayLiteral", "formIntersection"]
+- ["Ps25ExpressibleByArrayLiteral", "formSymmetricDifference"]
+- ["Ps25ExpressibleByArrayLiteral", "formUnion"]
+- !private ["Ps25ExpressibleByArrayLiteral", "ignoreMetacharacters"]
+- ["Ps25ExpressibleByArrayLiteral", "init"]
+- ["Ps25ExpressibleByArrayLiteral", "insert"]
+- ["Ps25ExpressibleByArrayLiteral", "intersection"]
+- ["Ps25ExpressibleByArrayLiteral", "isDisjoint"]
+- ["Ps25ExpressibleByArrayLiteral", "isEmpty"]
+- ["Ps25ExpressibleByArrayLiteral", "isSubset"]
+- ["Ps25ExpressibleByArrayLiteral", "isSuperset"]
+- ["Ps25ExpressibleByArrayLiteral", "rawValue"]
+- ["Ps25ExpressibleByArrayLiteral", "remove"]
+- ["Ps25ExpressibleByArrayLiteral", "subtract"]
+- ["Ps25ExpressibleByArrayLiteral", "subtracting"]
+- ["Ps25ExpressibleByArrayLiteral", "symmetricDifference"]
+- ["Ps25ExpressibleByArrayLiteral", "union"]
+- ["Ps25ExpressibleByArrayLiteral", "update"]
+- ["Ps25ExpressibleByArrayLiteral", ""]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps8Hashable", "Options"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- ["PSo8NSCoding", "Options"]
+- ["PSo9NSCopying", "Options"]
+- ["CSo8NSObject", "Options"]
+- ["PSo16NSObjectProtocol", "Options"]
+- ["CSo19NSRegularExpression", "Options"]
+- ["PSo14NSSecureCoding", "Options"]
+- !private ["Ps9OptionSet", "AnchorsMatchLines"]
+- !private ["Ps9OptionSet", "DotMatchesLineSeparators"]
+- !private ["Ps9OptionSet", "IgnoreCase"]
+- !private ["Ps9OptionSet", "IgnoreMetacharacters"]
+- ["Ps9OptionSet", "Options"]
+- !private ["Ps9OptionSet", "_RegularExpressionOptions"]
+- !private ["Ps9OptionSet", "anchorsMatchLines"]
+- !private ["Ps9OptionSet", "caseInsensitive"]
+- ["Ps9OptionSet", "contains"]
+- !private ["Ps9OptionSet", "dotMatchesLineSeparators"]
+- ["Ps9OptionSet", "formIntersection"]
+- ["Ps9OptionSet", "formSymmetricDifference"]
+- ["Ps9OptionSet", "formUnion"]
+- !private ["Ps9OptionSet", "ignoreMetacharacters"]
+- ["Ps9OptionSet", "init"]
+- ["Ps9OptionSet", "insert"]
+- ["Ps9OptionSet", "intersection"]
+- ["Ps9OptionSet", "isDisjoint"]
+- ["Ps9OptionSet", "isEmpty"]
+- ["Ps9OptionSet", "isSubset"]
+- ["Ps9OptionSet", "isSuperset"]
+- ["Ps9OptionSet", "rawValue"]
+- ["Ps9OptionSet", "remove"]
+- ["Ps9OptionSet", "subtract"]
+- ["Ps9OptionSet", "subtracting"]
+- ["Ps9OptionSet", "symmetricDifference"]
+- ["Ps9OptionSet", "union"]
+- ["Ps9OptionSet", "update"]
+- ["Ps9OptionSet", ""]
+- ["V5Regex7Options", "AnchorsMatchLines"]
+- ["V5Regex7Options", "DotMatchesLineSeparators"]
+- ["V5Regex7Options", "Element"]
+- ["V5Regex7Options", "IgnoreCase"]
+- ["V5Regex7Options", "IgnoreMetacharacters"]
+- ["V5Regex7Options", "Int"]
+- ["V5Regex7Options", "Options"]
+- ["V5Regex7Options", "RawValue"]
+- ["V5Regex7Options", "_RegularExpressionOptions"]
+- ["V5Regex7Options", "contains"]
+- ["V5Regex7Options", "deinit"]
+- ["V5Regex7Options", "formIntersection"]
+- ["V5Regex7Options", "formSymmetricDifference"]
+- ["V5Regex7Options", "formUnion"]
+- ["V5Regex7Options", "init"]
+- ["V5Regex7Options", "insert"]
+- ["V5Regex7Options", "intersection"]
+- ["V5Regex7Options", "isDisjoint"]
+- ["V5Regex7Options", "isEmpty"]
+- ["V5Regex7Options", "isSubset"]
+- ["V5Regex7Options", "isSuperset"]
+- ["V5Regex7Options", "rawValue"]
+- ["V5Regex7Options", "remove"]
+- ["V5Regex7Options", "subtract"]
+- ["V5Regex7Options", "subtracting"]
+- ["V5Regex7Options", "symmetricDifference"]
+- ["V5Regex7Options", "toNSRegularExpressionOptions"]
+- ["V5Regex7Options", "union"]
+- ["V5Regex7Options", "update"]
+- !private ["VCSo19NSRegularExpression7Options", "anchorsMatchLines"]
+- !private ["VCSo19NSRegularExpression7Options", "caseInsensitive"]
+- !private ["VCSo19NSRegularExpression7Options", "dotMatchesLineSeparators"]
+- !private ["VCSo19NSRegularExpression7Options", "ignoreMetacharacters"]
+- !private ["VCSo19NSRegularExpression7Options", "init"]
+- !private ["VCSo19NSRegularExpression7Options", "insert"]
+- !private ["Ps16RawRepresentable", "AnchorsMatchLines"]
+- !private ["Ps16RawRepresentable", "DotMatchesLineSeparators"]
+- !private ["Ps16RawRepresentable", "IgnoreCase"]
+- !private ["Ps16RawRepresentable", "IgnoreMetacharacters"]
+- ["Ps16RawRepresentable", "Options"]
+- !private ["Ps16RawRepresentable", "_RegularExpressionOptions"]
+- !private ["Ps16RawRepresentable", "anchorsMatchLines"]
+- !private ["Ps16RawRepresentable", "caseInsensitive"]
+- ["Ps16RawRepresentable", "contains"]
+- !private ["Ps16RawRepresentable", "dotMatchesLineSeparators"]
+- ["Ps16RawRepresentable", "formIntersection"]
+- ["Ps16RawRepresentable", "formSymmetricDifference"]
+- ["Ps16RawRepresentable", "formUnion"]
+- !private ["Ps16RawRepresentable", "ignoreMetacharacters"]
+- ["Ps16RawRepresentable", "init"]
+- ["Ps16RawRepresentable", "insert"]
+- ["Ps16RawRepresentable", "intersection"]
+- ["Ps16RawRepresentable", "isDisjoint"]
+- ["Ps16RawRepresentable", "isEmpty"]
+- ["Ps16RawRepresentable", "isSubset"]
+- ["Ps16RawRepresentable", "isSuperset"]
+- ["Ps16RawRepresentable", "rawValue"]
+- ["Ps16RawRepresentable", "remove"]
+- ["Ps16RawRepresentable", "subtract"]
+- ["Ps16RawRepresentable", "subtracting"]
+- ["Ps16RawRepresentable", "symmetricDifference"]
+- ["Ps16RawRepresentable", "union"]
+- ["Ps16RawRepresentable", "update"]
+- ["Ps16RawRepresentable", ""]
+- !private ["Ps10SetAlgebra", "AnchorsMatchLines"]
+- !private ["Ps10SetAlgebra", "DotMatchesLineSeparators"]
+- !private ["Ps10SetAlgebra", "IgnoreCase"]
+- !private ["Ps10SetAlgebra", "IgnoreMetacharacters"]
+- ["Ps10SetAlgebra", "Options"]
+- !private ["Ps10SetAlgebra", "_RegularExpressionOptions"]
+- !private ["Ps10SetAlgebra", "anchorsMatchLines"]
+- !private ["Ps10SetAlgebra", "caseInsensitive"]
+- ["Ps10SetAlgebra", "contains"]
+- !private ["Ps10SetAlgebra", "dotMatchesLineSeparators"]
+- ["Ps10SetAlgebra", "formIntersection"]
+- ["Ps10SetAlgebra", "formSymmetricDifference"]
+- ["Ps10SetAlgebra", "formUnion"]
+- !private ["Ps10SetAlgebra", "ignoreMetacharacters"]
+- ["Ps10SetAlgebra", "init"]
+- ["Ps10SetAlgebra", "insert"]
+- ["Ps10SetAlgebra", "intersection"]
+- ["Ps10SetAlgebra", "isDisjoint"]
+- ["Ps10SetAlgebra", "isEmpty"]
+- ["Ps10SetAlgebra", "isSubset"]
+- ["Ps10SetAlgebra", "isSuperset"]
+- ["Ps10SetAlgebra", "rawValue"]
+- ["Ps10SetAlgebra", "remove"]
+- ["Ps10SetAlgebra", "subtract"]
+- ["Ps10SetAlgebra", "subtracting"]
+- ["Ps10SetAlgebra", "symmetricDifference"]
+- ["Ps10SetAlgebra", "union"]
+- ["Ps10SetAlgebra", "update"]
+- ["Ps10SetAlgebra", ""]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps9_Hashable", "Options"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sb"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- "Ps8Hashable"
+- !private "Ps25LosslessStringConvertible"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "CSo19NSRegularExpression"
+- "PSo14NSSecureCoding"
+- "Ps9OptionSet"
+- "V5Regex7Options"
+- !private "VCSo19NSRegularExpression7Options"
+- "Ps16RawRepresentable"
+- "Ps10SetAlgebra"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "af67e74fda6220cea5868694c9183e5b"

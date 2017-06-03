@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "27f78baa1a570ab8449a3fdb0e077eac"
+build_time: [549408634, 662833000]
+inputs:
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/Ast.swift": [548895555, 0]
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/CodeGenerator.swift": [547946023, 0]
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/main.swift": [548896578, 0]
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/Parser.swift": [548895591, 0]
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/Scanner.swift": !dirty [548998547, 0]
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/SemanticChecker.swift": [547946009, 0]

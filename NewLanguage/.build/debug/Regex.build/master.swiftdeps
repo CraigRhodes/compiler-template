@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "9fe21353b0dbce57a2f9d6bab2930e75"
+build_time: [548894294, 740282000]
+inputs:
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/checkouts/Regex.git-4022605037188931567/Source/Foundation+Ranges.swift": [548894293, 0]
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/checkouts/Regex.git-4022605037188931567/Source/MatchResult.swift": [548894293, 0]
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/checkouts/Regex.git-4022605037188931567/Source/Options.swift": [548894293, 0]
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/checkouts/Regex.git-4022605037188931567/Source/Range+Compatibility.swift": [548894293, 0]
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/checkouts/Regex.git-4022605037188931567/Source/Regex.swift": [548894293, 0]
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/checkouts/Regex.git-4022605037188931567/Source/String+ReplaceMatching.swift": [548894293, 0]
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/checkouts/Regex.git-4022605037188931567/Source/ThreadLocal.swift": [548894293, 0]

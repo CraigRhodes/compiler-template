@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/master.swiftdeps"
+  },
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/checkouts/Regex.git-4022605037188931567/Source/Foundation+Ranges.swift": {
+    "dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/Foundation+Ranges.d",
+    "object": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/Foundation+Ranges.swift.o",
+    "swiftmodule": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/Foundation+Ranges~partial.swiftmodule",
+    "swift-dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/Foundation+Ranges.swiftdeps"
+  },
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/checkouts/Regex.git-4022605037188931567/Source/MatchResult.swift": {
+    "dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/MatchResult.d",
+    "object": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/MatchResult.swift.o",
+    "swiftmodule": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/MatchResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/MatchResult.swiftdeps"
+  },
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/checkouts/Regex.git-4022605037188931567/Source/Options.swift": {
+    "dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/Options.d",
+    "object": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/Options.swift.o",
+    "swiftmodule": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/Options~partial.swiftmodule",
+    "swift-dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/Options.swiftdeps"
+  },
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/checkouts/Regex.git-4022605037188931567/Source/Range+Compatibility.swift": {
+    "dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/Range+Compatibility.d",
+    "object": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/Range+Compatibility.swift.o",
+    "swiftmodule": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/Range+Compatibility~partial.swiftmodule",
+    "swift-dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/Range+Compatibility.swiftdeps"
+  },
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/checkouts/Regex.git-4022605037188931567/Source/Regex.swift": {
+    "dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/Regex.d",
+    "object": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/Regex.swift.o",
+    "swiftmodule": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/Regex~partial.swiftmodule",
+    "swift-dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/Regex.swiftdeps"
+  },
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/checkouts/Regex.git-4022605037188931567/Source/String+ReplaceMatching.swift": {
+    "dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/String+ReplaceMatching.d",
+    "object": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/String+ReplaceMatching.swift.o",
+    "swiftmodule": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/String+ReplaceMatching~partial.swiftmodule",
+    "swift-dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/String+ReplaceMatching.swiftdeps"
+  },
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/checkouts/Regex.git-4022605037188931567/Source/ThreadLocal.swift": {
+    "dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/ThreadLocal.d",
+    "object": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/ThreadLocal.swift.o",
+    "swiftmodule": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/ThreadLocal~partial.swiftmodule",
+    "swift-dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/Regex.build/ThreadLocal.swiftdeps"
+  }
+}

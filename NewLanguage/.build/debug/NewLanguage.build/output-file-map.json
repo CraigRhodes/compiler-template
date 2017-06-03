@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/master.swiftdeps"
+  },
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/Ast.swift": {
+    "dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/Ast.d",
+    "object": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/Ast.swift.o",
+    "swiftmodule": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/Ast~partial.swiftmodule",
+    "swift-dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/Ast.swiftdeps"
+  },
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/CodeGenerator.swift": {
+    "dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/CodeGenerator.d",
+    "object": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/CodeGenerator.swift.o",
+    "swiftmodule": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/CodeGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/CodeGenerator.swiftdeps"
+  },
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/main.swift": {
+    "dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/main.d",
+    "object": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/main.swift.o",
+    "swiftmodule": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/main.swiftdeps"
+  },
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/Parser.swift": {
+    "dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/Parser.d",
+    "object": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/Parser.swift.o",
+    "swiftmodule": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/Parser~partial.swiftmodule",
+    "swift-dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/Parser.swiftdeps"
+  },
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/Scanner.swift": {
+    "dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/Scanner.d",
+    "object": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/Scanner.swift.o",
+    "swiftmodule": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/Scanner~partial.swiftmodule",
+    "swift-dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/Scanner.swiftdeps"
+  },
+  "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/SemanticChecker.swift": {
+    "dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/SemanticChecker.d",
+    "object": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/SemanticChecker.swift.o",
+    "swiftmodule": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/SemanticChecker~partial.swiftmodule",
+    "swift-dependencies": "/Users/craigrhodes/Programs/Swift/new-language/NewLanguage/.build/debug/NewLanguage.build/SemanticChecker.swiftdeps"
+  }
+}
